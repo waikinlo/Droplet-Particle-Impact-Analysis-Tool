@@ -1,6 +1,4 @@
 # Droplet-Particle-Impact-Analysis-Tool
-MATLAB tool for dynamic analysis of droplet impact 
-
 This is the code repository for the paper: "Liquid droplet mops" by Lo et al.
 
 Usage:
