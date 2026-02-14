@@ -1,4 +1,4 @@
-# Droplet-Particle-Impact-Analysis-Tool
+# Droplet-Impact-Analysis-Tool
 This is the code repository for the paper: "Liquid droplet mops" by Lo et al.
 
 Usage:
